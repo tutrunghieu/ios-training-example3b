@@ -1,0 +1,18 @@
+//
+//  ViademyGlobalPrefix.pch
+//  Viademy
+//
+//  Created by Pham Dinh Thang on 6/3/16.
+//  Copyright © 2016 silkroadpacific. All rights reserved.
+//
+
+#ifndef ViademyGlobalPrefix_pch
+#define ViademyGlobalPrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "NetworkAccess.h"
+#import "AppConfig.h"
+#import "CustomUIKit.h"
+#import "DataAccessVinh.h"
+#endif /* ViademyGlobalPrefix_pch */
